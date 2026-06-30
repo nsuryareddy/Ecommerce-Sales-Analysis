@@ -68,17 +68,6 @@ Dashboard link - https://drive.google.com/file/d/1KsjOx8t1MM4kXjcS4HrxfZH7pmeL6z
 
 ---
 
-## 📁 Project Structure
-```
-Ecommerce-Sales-Analysis/
-│
-├── Dataset/
-├── SQL/
-├── Dashboard/
-├── README.md
-```
-
----
 
 ## 🚀 Outcome
 This project demonstrates skills in SQL, data analysis, and dashboarding using Power BI, which are essential for a Data Analyst role.
