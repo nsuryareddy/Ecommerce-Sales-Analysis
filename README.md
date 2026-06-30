@@ -69,8 +69,12 @@ Dashboard link - https://drive.google.com/file/d/1KsjOx8t1MM4kXjcS4HrxfZH7pmeL6z
 ---
 
 
-## 🚀 Outcome
-This project demonstrates skills in SQL, data analysis, and dashboarding using Power BI, which are essential for a Data Analyst role.
+## 🚀 Project Highlights
+• Cleaned and transformed data using Power Query.
+• Wrote SQL queries to extract KPIs and perform business analysis.
+• Built an interactive Power BI dashboard with slicers and drill-down analysis.
+• Analyzed customer reviews, payment methods, delivery performance, and regional sales.
+• Generated actionable business insights through interactive visualizations.
 
 ---
 
