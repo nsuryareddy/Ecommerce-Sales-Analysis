@@ -70,11 +70,11 @@ Dashboard link - https://drive.google.com/file/d/1KsjOx8t1MM4kXjcS4HrxfZH7pmeL6z
 
 
 ## 🚀 Project Highlights
-• Cleaned and transformed data using Power Query.
-• Wrote SQL queries to extract KPIs and perform business analysis.
-• Built an interactive Power BI dashboard with slicers and drill-down analysis.
-• Analyzed customer reviews, payment methods, delivery performance, and regional sales.
-• Generated actionable business insights through interactive visualizations.
+- Cleaned and transformed data using Power Query.
+- Wrote SQL queries to extract KPIs and perform business analysis.
+- Built an interactive Power BI dashboard with slicers and drill-down analysis.
+- Analyzed customer reviews, payment methods, delivery performance, and regional sales.
+- Generated actionable business insights through interactive visualizations.
 
 ---
 
