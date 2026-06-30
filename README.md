@@ -11,8 +11,12 @@ To analyze ecommerce transactional data and derive key business insights that he
 ---
 
 ## 📂 Data set
+The original Olist dataset contains multiple large CSV files and exceeds GitHub's recommended repository size.
 
-Complete data set - https://drive.google.com/drive/folders/1E4ARsfWVe_GiFg8stTFkzPtGNY9jia8R?usp=sharing 
+Dataset link:
+(https://drive.google.com/drive/folders/1E4ARsfWVe_GiFg8stTFkzPtGNY9jia8R?usp=sharing)
+
+This repository includes representative sample files used for demonstration. 
 
 ## 🛠️ Tools Used
 - SQL (Data extraction & KPI calculations)
